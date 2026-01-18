@@ -10,3 +10,5 @@ This repository was created as an assignment to practice Git version control bas
 Main Branch Update: Version Alpha
 Feature Branch Update: Version Beta
 
+
+Update from collaborator branch.
